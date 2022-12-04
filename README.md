@@ -14,7 +14,8 @@
 网站基本完工，元旦过后大概能上线  
 使用了自研的无感反刷票手段
 
-## 问卷入口：[建设中](#)
+## 问卷入口：[pdduniversity.com](https://www.pdduniversity.com/)
+[备用(需要能上github)](https://fuck-university.vercel.app/)
 
 ## 问卷设计
 
